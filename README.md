@@ -1,2 +1,2 @@
 # Library catalog 
-University project.
+University project. The project is build in C#
